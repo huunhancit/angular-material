@@ -8,7 +8,7 @@ html, body {
 
 .app-top {
   padding: 10px;
-  background: transparent url("./images/background.jpg") no-repeat scroll center center / cover;
+  background: transparent url("../images/background.jpg") no-repeat scroll center center / cover;
 }
 .app-top {
     position: relative;
