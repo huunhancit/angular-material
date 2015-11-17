@@ -1,0 +1,124 @@
+html, body {
+  font-family: 'Noto Serif', serif;
+  font-size:16px;
+  height:100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.app-top {
+  padding: 10px;
+  background: transparent url("../images/background.jpg") no-repeat scroll center center / cover;
+}
+.app-top {
+    position: relative;
+    height: 200px;
+}
+.app-name {
+  position: absolute;
+  bottom: 0px;
+  left: 170px;
+  margin: 10px 0px;
+  color: #fff;
+}
+.shadow-z1 {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
+}
+.app-avatar {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: -15px;
+    left: 25px;
+    z-index: 1001;
+    border-radius: 100%;
+}
+.app-avatar img {
+  border-radius: 100%;
+}
+
+.menu-container {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+.title{
+  padding: 5px;
+}
+.md-title{
+  padding: 0px;
+}
+.titleinfo{
+  font-size: 18px;
+  font-weight: 700;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding-bottom: 5px;
+  margin: 2px 4px 8px;
+}
+.border-basic {
+  border-bottom-color: #ff0000;
+}
+.border-lang{
+  border-bottom-color: #3333ff;
+}
+.border-edu{
+  border-bottom-color: #ff33cc;
+}
+.border-contact {
+  border-bottom-color: #00ff00;
+}
+.app-label{
+  width: 25%;
+  max-width: 200px;
+  text-align: right;
+  padding: 0 15px 0 0;
+  float: left;
+  display: inline-block;
+  font-weight: bold;
+}
+.app-row{
+  padding-bottom: 5px;
+}
+.app-row-top{
+  padding-top: 10px;
+}
+.college-desc {
+    display: inline-block; 
+    margin: 0px;
+    margin-left: 5px;
+
+}
+.college-wrapper {
+    margin-bottom: 10px;
+}
+div {
+    display: block;
+}
+.college-logo {
+    display: inline-block;
+}
+img {
+    vertical-align: middle;
+}
+.skill-logo {
+  width: 64px;
+  height: 64px;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 20px;
+  margin-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.skill {
+  display: table-cell;
+  vertical-align: middle;
+  padding-top: 4px;
+  padding-left: 12px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.skill-name {
+    
+   
+}
